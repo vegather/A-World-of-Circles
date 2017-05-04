@@ -3,10 +3,10 @@ This is a Swift Playground Book i wrote for my application for the WWDC 2017 Sch
 
 ## Screenshots
 ##### Sine Wave
-<img src="Screenshots/IMG_0020.PNG" alt="Sine Wave" width="50">
+<img src="Screenshots/IMG_0020.PNG" alt="Sine Wave" width="300">
 
 ##### Adding Circles
-<img src="Screenshots/IMG_0021.PNG" alt="Adding Circles" width="50">
+<img src="Screenshots/IMG_0021.PNG" alt="Adding Circles" width="300">
 
 ##### Sawtooth Wave
-<img src="Screenshots/IMG_0022.PNG" alt="Sawtooth Wave" width="50">
+<img src="Screenshots/IMG_0022.PNG" alt="Sawtooth Wave" width="300">
