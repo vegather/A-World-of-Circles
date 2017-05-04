@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Your First Circle</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>This Playground Book works best in portrait mode</string>
+		</dict>
+	</array>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+</dict>
+</plist>

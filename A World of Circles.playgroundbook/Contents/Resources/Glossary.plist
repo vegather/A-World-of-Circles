@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Fundamental Frequency</key>
+		<dict>
+			<key>Definition</key>
+			<string>The frequency that an entire compound sine wave repeats itself. This is the same frequency as the innermost circle.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Waveforms</string>
+				<key>PageReference</key>
+				<string>Compound%20Sine%20Waves/Waveforms</string>
+			</dict>
+		</dict>
+		<key>Harmony</key>
+		<dict>
+			<key>Definition</key>
+			<string>A harmony of a compound sine wave is one the sine wave components whose frequency is a multiple of the fundamental frequency.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Waveforms</string>
+				<key>PageReference</key>
+				<string>Compound%20Sine%20Waves/Waveforms</string>
+			</dict>
+		</dict>
+		<key>Sawtooth Wave</key>
+		<dict>
+			<key>Definition</key>
+			<string>A combination of sine waves that looks like the tooths of a saw.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Sawtooth Wave</string>
+				<key>PageReference</key>
+				<string>Compound%20Sine%20Waves/Sawtooth%20Wave</string>
+			</dict>
+		</dict>
+		<key>Circumference</key>
+		<dict>
+			<key>Definition</key>
+			<string>The edge of a circle.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Adding Circles</string>
+				<key>PageReference</key>
+				<string>Introducing%20Circles/Adding%20Circles</string>
+			</dict>
+		</dict>
+		<key>Amplitude</key>
+		<dict>
+			<key>Definition</key>
+			<string>The amplitude of a sine wave is how far the wave stretches out up or down. A &quot;tall&quot; sine wave has a high amplitude.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Your First Sine Wave</string>
+				<key>PageReference</key>
+				<string>Introducing%20Circles/Your%20First%20Sine%20Wave</string>
+			</dict>
+		</dict>
+		<key>Frequency</key>
+		<dict>
+			<key>Definition</key>
+			<string>A frequency is how many times per second a specific thing happens. When we&apos;re talking about rotating circles, the frequency means how many times per second the circle rotates around itself.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Your First Circle</string>
+				<key>PageReference</key>
+				<string>Introducing%20Circles/Your%20First%20Circle</string>
+			</dict>
+		</dict>
+		<key>Radius</key>
+		<dict>
+			<key>Definition</key>
+			<string>The radius of a circle is the distance from the center of the circle to the edge.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Your First Circle</string>
+				<key>PageReference</key>
+				<string>Introducing%20Circles/Your%20First%20Circle</string>
+			</dict>
+		</dict>
+		<key>Sine Wave</key>
+		<dict>
+			<key>Definition</key>
+			<string>A sine wave is a circular pattern that repeats. It&apos;s almost like the waves in the ocean.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Your First Sine Wave</string>
+				<key>PageReference</key>
+				<string>Introducing%20Circles/Your%20First%20Sine%20Wave</string>
+			</dict>
+		</dict>
+		<key>Compound Sine Wave</key>
+		<dict>
+			<key>Definition</key>
+			<string>Multiple sine waves added together.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Sawtooth Wave</string>
+				<key>PageReference</key>
+				<string>Compound%20Sine%20Waves/Sawtooth%20Wave</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
