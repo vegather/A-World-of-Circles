@@ -21,7 +21,7 @@ sawtooth = [
     Circle(radius: 0.25, frequency: 0.8)
 ]
 /*:
- If we kept adding more and more circles by following the same pattern, the resulting sine wave would look more and more like a perfect sine wave.
+ If we kept adding more and more circles by following the same pattern, the resulting sine wave would look more and more like a perfect sawtooth wave.
  
  Again, I encourage you to see what each individual sine wave looks like.
 */
